@@ -29,7 +29,7 @@ docker run -e SPRING_PROFILES_ACTIVE=dev -p 8080:8080 techsplinter/appointment-m
 docker run -e SPRING_PROFILES_ACTIVE=prod -p 8080:8090 techsplinter/appointment-management:latest
 ```
 
-!(img-front)[https://github.com/EduardoShoiti/CP3-java/blob/master/img-front.png]
+![img-front](https://github.com/EduardoShoiti/CP3-java/blob/master/img-front.png)
 
 ## Integrantes
 - Eduardo (RM98704)
